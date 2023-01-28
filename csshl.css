@@ -1,0 +1,202 @@
+*{
+margin: 0;
+padding: 0;
+font-family: 'Poppins', sans-serif;
+
+}
+
+.nev{
+overflow: hidden;
+background-color: #000;
+}
+.nev a {
+    float: left;
+    color: beige;
+    background-color: transparent;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+.nev a:hover{
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+}
+
+body{
+    background-color:#404040;
+
+}
+
+
+
+.header{
+ min-height: 100vh;
+width: 100%;
+background-size: cover;
+background-position: center;
+position: relative;
+}
+
+.text-box{
+width: 100%;
+color: rgb(255, 255, 255);
+position: absolute;
+top: 30%;
+left: 50%;
+transform: translate(-50%,-50%);
+text-align: center;
+
+}
+.text-box h1{
+font-size: 62px;
+color: #484848;
+
+}
+.text-box p{
+    margin: 10px 0 40px;
+    font-size: 20px;
+    color: #484848;
+    
+}
+
+.theme{
+    width: 50%;
+    margin: auto;
+    text-align: center;
+    padding-top: 300px;
+}
+.theme h1{
+    text-shadow:4px 4px #000;
+    text-align: center;
+    color: #fff;
+    font-size: 36px;
+    font-weight: 600;
+}
+
+	
+}
+h1{
+    font-size: 36px;
+    font-weight: 600;
+    color: #fff;
+   
+}
+
+p{
+    color: #777;
+    font-size: 20px;
+    font-weight: 300;
+    line-height: 22px;
+    padding: 10px;
+  
+
+} 
+
+ul {
+	text-align: center;
+    color: #777;
+    font-size: 17px;
+    font-weight: 300;
+    line-height: 22px;
+    padding: 20px;
+	display: inline-block;
+        margin: 0;
+      
+  
+
+}
+
+
+a:link { text-decoration: none; 
+color: beige;
+}
+
+a:visited { text-decoration: none; 
+color: beige;
+}
+
+  .container {
+        background-color: rgb(192, 192, 192);
+        width: 100%;
+        border-radius: 15px;
+		
+    }
+  
+    .skill {
+		
+        background-color: rgb(50, 50, 92);
+        color: white;
+        padding: 1%;
+        text-align: center;
+        font-size: 20px;
+        border-radius: 15px;
+		 
+		 
+		
+    }
+  
+  .tool {
+		
+        background-color: rgb(50, 50, 92);
+        color: white;
+        padding: 1%;
+        text-align: center;
+        font-size: 20px;
+        border-radius: 15px;
+		 
+		
+    }
+    .htmlCss {
+        width: 50%;
+    }
+  
+    .Python {
+        width: 60%;
+    }
+	
+	.JAVA {
+        width: 70%;
+    }
+	
+	.C {
+        width: 70%;
+    }
+	
+	.SQL {
+        width: 70%;
+    }
+	
+	.UI {
+        width: 40%;
+    }
+	
+	
+	.XML {
+        width: 60%;
+    }
+	
+	.UI {
+        width: 40%;
+    }
+	
+	.web {
+        width: 50%;
+    }
+	
+	.agile {
+        width: 40%;
+    }
+	.icon-red {
+  color: red;
+}
+
+
+
+footer {
+  text-align: center;
+  padding: 3px;
+  background-color: DarkSalmon;
+  color: white;
+}
+
